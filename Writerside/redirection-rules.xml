@@ -6,16 +6,4 @@
         <accepts>page.html</accepts>
     </rule>
     -->
-    <rule id="3a6b0bb8">
-        <description>Created after removal of "Introduction" from Help Instance</description>
-        <accepts>Introduction.html</accepts>
-    </rule>
-    <rule id="279ab8bc">
-        <description><![CDATA[Created after removal of "<Getting-Started.md>" from Help Instance]]></description>
-        <accepts>Getting-Started.html</accepts>
-    </rule>
-    <rule id="6ada281b">
-        <description>Created after removal of "Empty MD Topic" from Help Instance</description>
-        <accepts>Empty-MD-Topic.html</accepts>
-    </rule>
 </rules>
