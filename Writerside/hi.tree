@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi" name="Help Instance"
+                  start-page="Introduction.topic">
+
+    <toc-element topic="Introduction.topic"/>
+    <toc-element topic="Installation-Requirements.md"/>
+    <toc-element topic="Overview.md"/>
+    <toc-element topic="Beta-Status.md"/>
+    <toc-element topic="Contacting-Us.md"/>
+    <toc-element topic="Inline-help.md"/>
+    <toc-element topic="Reference-Guide.md">
+        <toc-element topic="File-locations.md"/>
+        <toc-element topic="Test-Manager.md">
+            <toc-element topic="Sidebar-APIs-and-Projects.md"/>
+            <toc-element topic="Add-new-project.md"/>
+            <toc-element topic="The-Canvas.md"/>
+            <toc-element topic="API-Configurations.md"/>
+            <toc-element topic="Changing-the-active-server.md"/>
+            <toc-element topic="Renaming-and-labelling-groups.md"/>
+            <toc-element topic="Adding-organizing-groups.md"/>
+            <toc-element topic="Deleting-groups.md"/>
+            <toc-element topic="Searching.md"/>
+            <toc-element topic="Dragging-Groups.md"/>
+            <toc-element topic="Adding-a-test-configuration.md"/>
+            <toc-element topic="Edit-a-test-configuration.md"/>
+            <toc-element topic="All-test-configuration-actions.md"/>
+            <toc-element topic="Canvas-actions.md"/>
+            <toc-element topic="Running-all-group-tests.md"/>
+        </toc-element>
+        <toc-element topic="Test-Editor.md">
+            <toc-element topic="Navigating-back-to-the-Test-Manager.md"/>
+            <toc-element topic="Recent-test-configurations.md"/>
+            <toc-element topic="Quick-navigation-tips.md"/>
+            <toc-element topic="Configuring-a-siimple-API-test.md"/>
+            <toc-element topic="A-more-complex-API-test.md"/>
+            <toc-element topic="Managing-test-cases.md"/>
+        </toc-element>
+        <toc-element topic="Scripting.md">
+            <toc-element topic="Common-information.md"/>
+            <toc-element topic="Specifying-a-script-path.md"/>
+            <toc-element topic="Language-Packages.md">
+                <toc-element topic="Typescript.md"/>
+            </toc-element>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Training.md"/>
+</instance-profile>

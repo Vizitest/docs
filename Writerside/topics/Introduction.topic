@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Introduction" id="Introduction" help-id="Section-Starting-Page">
+
+    <section-starting-page>
+        <title>Vizitest Documentation and Support</title>
+        <description>
+            Welcome to the Vizitest help center.
+        </description>
+
+        <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
+        <spotlight>
+            <a href="Overview.md" type="presentation" summary="Vizitest high level concepts and video overview.">Overview</a>
+            <a href="Training.md" type="learn" summary="Get started with step-by-step training.">Training</a>
+        </spotlight>
+
+        <!--    Add several topics that are most important for this section.    -->
+        <primary>
+            <title>User Guide</title>
+            <a href="Installation-Requirements.md" type="start" summary="Installing Vizitest and system requirements.">Getting Started</a>
+            <a href="Reference-Guide.md" type="library" summary="Reference guide for the Test Manager and Test Editor">Reference Guide</a>
+        </primary>
+
+
+        <!--    Add several topics that are most important for this section.    -->
+        <secondary>
+            <title>Support</title>
+            <a href="Contacting-Us.md" type="community" summary="Contact us by email, support ticket or on your preferred chat channel">Chat and support channels</a>
+        </secondary>
+
+    </section-starting-page>
+
+</topic>
