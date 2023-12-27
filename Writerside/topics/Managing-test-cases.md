@@ -1,3 +1,0 @@
-# Managing test cases
-
-Start typing here...

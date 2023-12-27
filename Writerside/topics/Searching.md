@@ -1,8 +1,6 @@
 # Searching
-Finding Groups and Test Configurations is easy using the search capability.
+You can search for Groups and Test Configurations by pressing the search icon. The search will look at both the title and description description fields.
 
-<img src="search.png" width="500" alt="search"/>
+<img src="search.png" width="700" alt="search"/>
 
-The dropdown lets you narrow the search to Test Configurations or Groups.
-
-To locate the Group or Test Configuration, press the **Search** icon. It will then zoom to the Group or Test Configuration.
+Groups and Test Configurations are denoted by the icon next to the search results. Click on an item and it will zoom to the selected item.

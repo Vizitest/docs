@@ -14,14 +14,14 @@
         <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
         <spotlight>
             <a href="Overview.md" type="presentation" summary="Vizitest high level concepts and video overview.">Overview</a>
-            <a href="Training.md" type="learn" summary="Get started with step-by-step training.">Training</a>
+            <a href="Overview.md" type="learn" summary="Get started with step-by-step training.">Training</a>
         </spotlight>
 
         <!--    Add several topics that are most important for this section.    -->
         <primary>
             <title>User Guide</title>
             <a href="Installation-Requirements.md" type="start" summary="Installing Vizitest and system requirements.">Getting Started</a>
-            <a href="Reference-Guide.md" type="library" summary="Reference guide for the Test Manager and Test Editor">Reference Guide</a>
+            <a href="User-Guide.md" type="library" summary="Reference guide for the Test Manager and Test Editor">Reference Guide</a>
         </primary>
 
 

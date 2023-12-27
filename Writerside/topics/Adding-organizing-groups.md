@@ -9,11 +9,13 @@ There are two ways to add a Group.
 
 - **Add subgroup** button : If you hover over a Group, you will see a button appear **Add a subgroup**. If you press, this, a new group is created and connected.
 
-<img src="connecting-groups.png" alt="connecting groups" width="300"/>
+<img src="add-subgroup.png" alt="add sub groups" width="400"/>
 
 - **Add an orphaned Group** : press the large, blue **+** button in the top left of the canvas.
 
-<img src="test-manager.png" alt="add group" width="600"/>
+<img src="add-orphaned-group.png" alt="add group" width="600"/>
+
+The newly created group is not connected to any other group, but can be.
 
 ## Connecting Groups
 If you used the **Add subgroup** button, the Groups will already be connected.
@@ -33,6 +35,11 @@ You can remove the parent/child connector by hovering on the connector and then 
 
 ## Deleting a Group
 You can delete a Group, without deleting its children, [as explained here](Deleting-groups.md).
+
+## Auto layout
+You can drag your groups around the canvas. You can also press the Auto Layout button on the right side of the canvas and Vizitest will reorganize then for you.
+
+<img src="auto-layout.png" alt="delete connector" width="500"/>
 
 ## Where Groups and Test Configurations are stored
 All Vizitest configuration data is stored in the ```.vizitest``` folder in the root of your codebase.
