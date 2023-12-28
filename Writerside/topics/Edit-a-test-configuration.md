@@ -9,7 +9,7 @@ This will then immediately switch to the Test Editor, where you can edit the Tes
 
 <tip>
     <p>
-        If you've got a lot of Test Configurations, you can [search](search.md) by the name or description of either the Test Configuration or the Group it belongs to.
+        If you've got a lot of Test Configurations, you can <a href="Searching.md">search</a> by the name or description of either the Test Configuration or the Group it belongs to.
     </p>
 
 </tip>

@@ -2,15 +2,15 @@
 
 When you hover on a Test Configuration, you can see the following actions
 
-<img src="test-config-other-actions.png" alt="test configurations" width="300"/>
+<img src="test-config-other-actions.png" alt="test configurations" width="400"/>
 
 <table>
 <tr>
   <td>
-    <img src="tc-drag.png" alt="drag to reorder" width="35"/>
+    <img src="tc-edit.png" alt="open" width="35"/>
   </td>
   <td>
-    Drag up and down the list to reorder
+    Open in the Test Editor
   </td>
 </tr>
 <tr>
@@ -19,14 +19,6 @@ When you hover on a Test Configuration, you can see the following actions
   </td>
   <td>
     Move to another Group
-  </td>
-</tr>
-<tr>
-  <td>
-    <img src="tc-edit.png" alt="open" width="35"/>
-  </td>
-  <td>
-    Open in the Test Editor
   </td>
 </tr>
 <tr>
@@ -45,4 +37,13 @@ When you hover on a Test Configuration, you can see the following actions
     Delete the Test Configuration
   </td>
 </tr>
+<tr>
+  <td>
+    <img src="tc-drag.png" alt="drag to reorder" width="35"/>
+  </td>
+  <td>
+    Drag up and down the list to reorder
+  </td>
+</tr>
+
 </table>

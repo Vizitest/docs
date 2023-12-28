@@ -8,4 +8,5 @@ The left sidebar is where you find
 
 Below, you can see the anatomy of the sidebar.
 
+TODO : image once groups and tests available
 <img src="sidebar.png" width="400" alt="sidebar"/>
