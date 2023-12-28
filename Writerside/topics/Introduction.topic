@@ -21,7 +21,8 @@
         <primary>
             <title>User Guide</title>
             <a href="Installation-Requirements.md" type="start" summary="Installing Vizitest and system requirements.">Getting Started</a>
-            <a href="User-Guide.md" type="library" summary="Reference guide for the Test Manager and Test Editor">Reference Guide</a>
+            <a href="Test-Manager.md" type="library" summary="Learn how to organize your tests.">The Test Manager</a>
+            <a href="Test-Editor.md" type="library" summary="Learn how to create and execute tests">The Test Editor</a>
         </primary>
 
 
