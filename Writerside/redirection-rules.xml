@@ -6,24 +6,4 @@
         <accepts>page.html</accepts>
     </rule>
     -->
-    <rule id="57d3045f">
-        <description>Created after removal of "Anatomy of a test configuration" from Help Instance</description>
-        <accepts>Anatomy-of-a-test-configuration.html</accepts>
-    </rule>
-    <rule id="1322c966">
-        <description>Created after removal of "Equivalence Classes" from Help Instance</description>
-        <accepts>Equivalence-Classes.html</accepts>
-    </rule>
-    <rule id="12d5c2f0">
-        <description>Created after removal of "Managing test cases" from Help Instance</description>
-        <accepts>Managing-test-cases.html</accepts>
-    </rule>
-    <rule id="20e6bfaf">
-        <description>Created after removal of "Training" from Help Instance</description>
-        <accepts>Training.html</accepts>
-    </rule>
-    <rule id="6bc3403d">
-        <description><![CDATA[Created after removal of "<The-Canvas.md>" from Help Instance]]></description>
-        <accepts>The-Canvas.html</accepts>
-    </rule>
 </rules>
