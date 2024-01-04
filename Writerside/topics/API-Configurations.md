@@ -2,6 +2,11 @@
 
 API testing means you will connect to local or remote APIs that you want to test.
 
+
+<tip>
+We are currently working on support for OpenAPI ingestion. This will drastically shorten test creation and configuration time.
+</tip>
+
 ## Adding the API
 Ensure that you have selected a project, then click on the **+ API** button in the sidebar.
 
