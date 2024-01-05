@@ -10,8 +10,7 @@ All services are provided as Java modules. Please ensure your machine meets the 
 
 ## System Requirements
 
-- Java 8 or later.
-- Minimum of 2GB available memory.
+- Minimum of 3GB available memory.
 - Windows, macOS, Linux
 - A modern browser. We recommend Chrome.
 
