@@ -1,7 +1,7 @@
 # Installation &amp; Requirements
 
 <tip>
-<strong>The Vizitest Beta will be available very shortly. In the meantime, why not explore the documentation?</strong>
+<strong>The Vizitest Beta will be available on January 20th. In the meantime, why not explore the documentation?</strong>
 </tip>
 
 Vizitest can be installed in any Windows, Mac or Linux environment.

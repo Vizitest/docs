@@ -18,7 +18,7 @@ The endpoint for adding a new user is ```user/{uid}``` where uid is a string val
 
 The Endpoint component should now look like this.
 
-You'll notice a path variable has automatically been created and a default equivalence class **Valid** has been created with a default value of ```default```. We'll explain equivalence classes in a later example.
+You'll notice a path variable has automatically been created and a default group **Valid** has been created with a default value of ```default```. We'll explain groups in a later example.
 
 Click in the value field and change from ```default``` to some uid (string) for our new user. Try ```abc-123```.
 
@@ -31,7 +31,7 @@ Press the green Quick Play icon in the top of the Endpoint component to test it.
 
 
 ### Set the Body
-POST requests require a body, so let's provide one. Hover over the Body section and press the **+Body** button that appears. This will add a default equivalence class and a default value.
+POST requests require a body, so let's provide one. Hover over the Body section and press the **+Body** button that appears. This will add a default group and a default value.
 
 <img src="add-user-body-add.png" alt="add request body" width="500"/>
 

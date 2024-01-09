@@ -1,12 +1,12 @@
 # Auto generating test cases
 
-We'll now create a more interesting test using multiple equivalence classes and values.
+We'll now create a more interesting test using multiple groups and values.
 
 We'll then ask Vizitest to generate the test cases for us.
 
-This example is fairly basic. If you have more equivalence classes and values, Vizitest's auto generation capability becomes more powerful as it calculates combinations to test.
+This example is fairly basic. If you have more groups and values, Vizitest's auto generation capability becomes more powerful as it calculates combinations to test.
 
-This said, you should avoid creating unnecessary equivalence classes and values that do not actually add value, as these will require output value macthing and take longer to execute.
+This said, you should avoid creating unnecessary groups and values that do not actually add value, as these will require output value macthing and take longer to execute.
 
 ## Steps
 
@@ -25,14 +25,14 @@ This said, you should avoid creating unnecessary equivalence classes and values 
 
 <img src="autogen-endpoint.png" alt="endpoint component" width="800"/>
 
-### Add Invalid Equivalence Class for Query Parameter
-- Create an Invalid equivalence class and change the value to ```xxxxx```.
+### Add Invalid Group for Query Parameter
+- Create an Invalid group and change the value to ```xxxxx```.
 
-<img src="autogen-invalid-query.png" alt="added invalid query equivalence class" width="800"/>
+<img src="autogen-invalid-query.png" alt="added invalid query group" width="800"/>
 
 
 ### Configure Status Code
-- In the response's STATUS CODE section, create equivalence classes and values as shown below.
+- In the response's STATUS CODE section, create groups and values as shown below.
 
 <img src="autogen-status-ecs.png" alt="Status code configuration" width="800"/>
 

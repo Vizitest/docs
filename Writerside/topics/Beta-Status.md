@@ -5,7 +5,7 @@ Vizitest is currently in Beta.
 ## Beta roadmap
 Available during the beta phase.
 
-- Copy, paste and duplication of test configurations, components and equivalence classes 
+- Copy, paste and duplication of test configurations, components and groups 
 - Secrets and Variables - similar to Postman.
 - Support for oAuth and Basic Authentication
 - OpenAPI ingestion. Will allow instant creation of test configurations based from any OpenAPI specification.

@@ -34,18 +34,18 @@ In the Execution Results component, you can now see that the test failed. Hover 
 
 <img src="basic-testing-tct-execute-1.png" alt="test cases table" width="800"/>
 
-### Adding an Invalid "Equivalence Class" to the Reesponse Status Code
-We'll now briefly discuss equivalence classes. They are simple but very powerful in a testing context. We won't go into much detail as it's not really necessary at this stage.
+### Adding an Invalid Group to the Response Status Code
+We'll now briefly discuss groups. They are simple but very powerful in a testing context. We won't go into much detail as it's not really necessary at this stage.
 
-For now, just think of an equivalence class as a set of values all of which belong to the parent and have the same meaning as the equivalence class name. 
+For now, just think of an groups as a set of values all of which belong to the parent and have the same meaning as the group name. 
 
 Often you'll just be working with **Valid** and **Invalid** values. But you may want to have group your values in a more complex way later. This comes into its own if you want Vizitest to [auto-generate test cases](Auto-generating-test-cases.md) for you,
 
-<img src="basic-testing-add-invalid-ec.png" alt="add invalid equivalence class" width="800"/>
+<img src="basic-testing-add-invalid-ec.png" alt="add invalid group" width="800"/>
 
-We can add a new **Invalid** equivalence class tp the Status Code section in the Endpoint component.
+We can add a new **Invalid** group tp the Status Code section in the Endpoint component.
 
-- Hover over the top row with the section, as shown above and the **+Equivalence Class** button will appear. Choose **Invalid values** from the popup.
+- Hover over the top row with the section, as shown above and the **+Group** button will appear. Choose **Invalid values** from the popup.
 - You can now see that the new class has been created with a default value. Edit this value and change to ```409```.
 
 <img src="basic-testing-set-invalid-ec-value.png" alt="set invalid value 409" width="800"/>
