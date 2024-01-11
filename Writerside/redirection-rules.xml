@@ -6,4 +6,8 @@
         <accepts>page.html</accepts>
     </rule>
     -->
+    <rule id="3d6b2389">
+        <description>Created after removal of "File locations" from Vizitest Documentation</description>
+        <accepts>File-locations.html</accepts>
+    </rule>
 </rules>

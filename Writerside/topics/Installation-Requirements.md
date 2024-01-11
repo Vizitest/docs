@@ -1,22 +1,23 @@
 # Installation &amp; Requirements
 
 <tip>
-<strong>The Vizitest Beta will be available on January 20th. In the meantime, why not explore the documentation?</strong>
+<strong>The Vizitest Beta will be available on January 16th. In the meantime, why not explore the documentation?</strong>
 </tip>
 
-Vizitest can be installed in any Windows, Mac or Linux environment.
+## Installation
+Vizitest can be installed in any Windows, Mac or Linux environment.It install its services in the ```.vizitest``` folder in your home folder.
 
-All services are provided as Java modules. Please ensure your machine meets the following requirements.
+To install Vizitest, please go to https://google.com and follow the instructions provided.
 
 ## System Requirements
+Vizitest is installed locally and needs resources the run its services and the frontend application.
 
 - Minimum of 3GB available memory.
 - Windows, macOS, Linux
 - A modern browser. We recommend Chrome.
 
-## Installation
+We will soon be delivering Vizitest as a desktop application.
 
-Installation instructions will be provided here shortly.
 
 
 
