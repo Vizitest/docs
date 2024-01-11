@@ -18,6 +18,3 @@ Vizitest is installed locally and needs resources the run its services and the f
 
 We will soon be delivering Vizitest as a desktop application.
 
-
-
-
