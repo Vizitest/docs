@@ -9,6 +9,11 @@ Vizitest can be installed in any Windows, Mac or Linux environment.It install it
 
 To install Vizitest, please go to https://google.com and follow the instructions provided.
 
+<warning>
+Important: you will be sent an email with instructions. Please check your junk folder if you haven't received it.
+</warning>
+
+
 ## System Requirements
 Vizitest is installed locally and needs resources the run its services and the frontend application.
 
@@ -17,7 +22,4 @@ Vizitest is installed locally and needs resources the run its services and the f
 - A modern browser. We recommend Chrome.
 
 We will soon be delivering Vizitest as a desktop application.
-
-
-
 
