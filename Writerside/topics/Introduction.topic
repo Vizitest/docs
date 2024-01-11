@@ -14,7 +14,7 @@
         <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
         <spotlight>
             <a href="Overview.md" type="presentation" summary="Vizitest high level concepts and video overview.">Overview</a>
-            <a href="Overview.md" type="learn" summary="Get started with step-by-step training.">Training</a>
+            <a href="Installation-Requirements.md" type="learn" summary="Installing Vizitest">Installation</a>
         </spotlight>
 
         <!--    Add several topics that are most important for this section.    -->

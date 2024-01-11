@@ -2,16 +2,15 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="hi" name="Help Instance"
+<instance-profile id="hi" name="Vizitest Documentation"
                   start-page="Introduction.topic">
 
     <toc-element topic="Introduction.topic"/>
     <toc-element topic="Installation-Requirements.md"/>
-    <toc-element topic="Overview.md"/>
     <toc-element topic="Beta-Status.md"/>
     <toc-element topic="Contacting-Us.md"/>
     <toc-element topic="Inline-help.md"/>
-    <toc-element topic="File-locations.md"/>
+    <toc-element topic="Overview.md"/>
     <toc-element topic="Test-Manager.md">
         <toc-element topic="Collaborating-using-Git.md"/>
         <toc-element topic="Sidebar-APIs-and-Projects.md"/>
