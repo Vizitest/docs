@@ -6,12 +6,12 @@
         <variables>
             <noindex-content>false</noindex-content>
             <header-logo>vizitest-icon.svg</header-logo>
-            <custom-favicons>vizitest-icon.svg</custom-favicons>
             <algolia-id>NZH5O9OS7U</algolia-id>
             <algolia-index>vt_docs</algolia-index>
             <algolia-api-key>efff326b55134abbce44c684322fede5</algolia-api-key>
             <analytics-head-script-file>gtag.js</analytics-head-script-file>
             <web-root>https://docs.vizitest.com/</web-root>
+            <custom-favicons>vizitest-icon.svg</custom-favicons>
         </variables>
     </build-profile>
 </buildprofiles>
