@@ -7,5 +7,5 @@ You can uninstall Vizitest by starting the installer. If Vizitest is already ins
 You can manually uninstall Vizitest by following these steps.
 
 - Stop the Vizitest services as [explained here](Vizitest-services.md).
-- Locate the ```.vizitest``` folder as [explained here]().
+- Locate the ```.vizitest``` folder as [explained here](Project-and-test-locations.md).
 - Delete the folder.
