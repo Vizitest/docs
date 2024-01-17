@@ -1,18 +1,13 @@
 # Getting Started
 
-Vizitest fulfills a very similar purpose to Postman with some major differences.
-
-- You can create test cases without writing any code.
-- Vizitest can auto-generate test cases for you.
-- Collaboration is Git based, so API information is never sent into the Cloud.
-- All supporting services run exclusively on a local PC, so you have full control over all security aspects.
-- It has a modern, canvas based UI.
-
 ## Learning Step by step
 We recommend working through the following sections in the user guide. This will give you a solid understanding of Vizitest. There are also instructions on how to install a simple web server that accompanies the user guid steps.
 
 - [The Test Manager](Test-Manager.md)
 - [The Test Editor](Test-Editor.md)
+
+## Vizitest Learn Project
+You can also install the Vizitest Learn repository, a Vizitest project that contains some preconfigured tests. Please go to [The Test Server](The-Test-Server.md) for details.
 
 ## TLDR
 We recommend reading the Test Manager and Test Editor sections. These contain some hands-on examples and a test server you can install locally.

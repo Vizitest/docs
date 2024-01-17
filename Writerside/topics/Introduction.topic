@@ -7,9 +7,7 @@
 
     <section-starting-page>
         <title>Vizitest Documentation and Support</title>
-        <description>
-            Welcome to the Vizitest help center.
-        </description>
+        <description>Getting you up and running</description>
 
         <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
         <spotlight>
@@ -20,7 +18,7 @@
         <!--    Add several topics that are most important for this section.    -->
         <primary>
             <title>User Guide</title>
-            <a href="Installation-Requirements.md" type="start" summary="Installing Vizitest and system requirements.">Getting Started</a>
+            <a href="Overview.md" type="start" summary="Getting started with Vizitest.">Getting Started</a>
             <a href="Test-Manager.md" type="library" summary="Learn how to organize your tests.">The Test Manager</a>
             <a href="Test-Editor.md" type="library" summary="Learn how to create and execute tests">The Test Editor</a>
         </primary>
