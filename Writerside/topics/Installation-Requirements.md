@@ -1,9 +1,5 @@
 # Installation &amp; Requirements
 
-<tip>
-<strong>The Vizitest Beta will be available on January 16th. In the meantime, why not explore the documentation?</strong>
-</tip>
-
 ## Download and Installation
 Vizitest can be installed in any Windows, Mac or Linux environment.It install its services in the ```.vizitest``` folder in your home folder.
 
