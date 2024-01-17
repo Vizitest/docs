@@ -10,4 +10,8 @@
         <description>Created after removal of "File locations" from Vizitest Documentation</description>
         <accepts>File-locations.html</accepts>
     </rule>
+    <rule id="32a5a791">
+        <description>Created after removal of "Empty MD Topic" from Vizitest Documentation</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
 </rules>

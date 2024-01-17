@@ -1,0 +1,3 @@
+# How Vizitest updates
+
+TODO
