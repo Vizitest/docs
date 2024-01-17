@@ -1,5 +1,4 @@
 # How Vizitest updates
 
-During the beta, Vizitest will update automatically. It will check for updates approximately every 30 minutes.
+We release updates on a regular basis. We recommend you use the [Vizitest Service Monitor](Vizitest-services.md) application to restart the Vizitest services, which will perform an update check.
 
-You can also update manually at any time by TODO
