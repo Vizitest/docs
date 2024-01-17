@@ -7,7 +7,7 @@
 ## Download and Installation
 Vizitest can be installed in any Windows, Mac or Linux environment.It install its services in the ```.vizitest``` folder in your home folder.
 
-To install Vizitest, select the OS you are installing onto below and click the link. Once the download is complete, run the installer.
+To install Vizitest, select your OS from the appropriate tab below and click the link to download. Once the download is complete, run the installer.
 
 <tabs>
 <tab title="Windows">
@@ -21,12 +21,14 @@ To install Vizitest, select the OS you are installing onto below and click the l
 Should the installation fail for any reason, we would appreciate it if you would [email the log files](Log-files.md) to [support@vizitest.com](mailto:support@vizitest.com).
 
 <warning>
-<strong>Important</strong>: you will be sent an email with instructions. Please check your junk folder if you haven't received it. If you think you entered an incorrect email address, please <a href="Vizitest-services.md">remove the <pre>.vizitest folder</pre></a> and re-run the installer. 
+<strong>Important</strong>: During the installation yo uwill be asked for your email details and will then be sent an email with instructions. Please check your junk folder if you don't received it. If you think you entered an incorrect email address, please <a href="Vizitest-services.md">remove the <pre>.vizitest folder</pre></a> and re-run the installer. 
 </warning>
 
 <warning>
 <strong>Important</strong>: when the Vizitest frontend is opened in your browser for the first time, we recommend you should bookmark the page. We will soon be delivering Vizitest as a self-contained application.
 </warning>
+
+Once installed, please head to the [Getting Started](Overview.md) page.
 
 
 ## System Requirements

@@ -14,4 +14,20 @@
         <description>Created after removal of "Empty MD Topic" from Vizitest Documentation</description>
         <accepts>Empty-MD-Topic.html</accepts>
     </rule>
+    <rule id="7a5c1b76">
+        <description>Created after removal of "Typescript/Javascript" from Vizitest Documentation</description>
+        <accepts>Typescript.html</accepts>
+    </rule>
+    <rule id="2cbbfbaf">
+        <description>Created after removal of "Common information" from Vizitest Documentation</description>
+        <accepts>Common-information.html</accepts>
+    </rule>
+    <rule id="55e8a403">
+        <description>Created after removal of "Specifying a script path" from Vizitest Documentation</description>
+        <accepts>Specifying-a-script-path.html</accepts>
+    </rule>
+    <rule id="19baf463">
+        <description>Created after removal of "Language Packages" from Vizitest Documentation</description>
+        <accepts>Language-Packages.html</accepts>
+    </rule>
 </rules>

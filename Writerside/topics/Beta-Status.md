@@ -17,10 +17,10 @@ Available during the beta phase.
 ### Phase 1
 Available in the first 3 months after the Version 1 release.
 
+- AI support for the generation of Groups and Values. Our first version should be available in early February 2024.
 - Passing data from an endpoint response to another endpoint in a single test configuration.
 - Server Side Scripting - Pre- and post-request hooks. Examine and manipulate data. generate your own dynamic test cases from databases, lookup tables etc. Packages/modules for Typescript, Java and C# with more to follow.
-- Regression Testing - integrate tests into any CI/CD workflow. 
-- AI support for the generation of Groups and Values.
+- Regression Testing - integrate tests into any CI/CD workflow.
 
 ### Phase 2
 Available in the 3 months following Phase 1.

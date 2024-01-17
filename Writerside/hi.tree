@@ -57,10 +57,5 @@
         <toc-element topic="Security.md"/>
     </toc-element>
     <toc-element topic="Scripting.md">
-        <toc-element topic="Common-information.md"/>
-        <toc-element topic="Specifying-a-script-path.md"/>
-        <toc-element topic="Language-Packages.md">
-            <toc-element topic="Typescript.md"/>
-        </toc-element>
     </toc-element>
 </instance-profile>
