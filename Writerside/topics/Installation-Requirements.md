@@ -11,13 +11,16 @@ To install Vizitest, select your OS from the appropriate tab below and click the
 <p>Should your anti-virus package block the installer, please take appropriate steps to correct.</p>
 </tab>
 <tab title="MacOS"><a href="https://mrm.automated-software-testing.com/releases/com/ast/vizitest/beta/installer/vizitest_beta_0.1.0_installer_x64.dmg">Click here</a> to download the MacOS installer.</tab>
-<tab title="Linux"><a href="https://mrm.automated-software-testing.com/releases/com/ast/vizitest/beta/installer/vizitest_beta_0.1.0_installer_amd64.AppImage">Click here</a> to download the Linux installer.</tab>
+<tab title="Linux"><a href="https://mrm.automated-software-testing.com/releases/com/ast/vizitest/beta/installer/vizitest_beta_0.1.0_installer_amd64.AppImage">Click here</a> to download the Linux installer.
+
+The Installer is an AppImage. AppImages require FUSE version 2 to run. Many distributions have a working FUSE setup out-of-the-box. However if it is not working for you, you may need to install and configure FUSE manually. See <a href="https://github.com/AppImage/AppImageKit/wiki/FUSE">the FUSE page</a> for instructions.
+</tab>
 </tabs>
 
 Should the installation fail for any reason, we would appreciate it if you would [email the log files](Log-files.md) to [support@vizitest.com](mailto:support@vizitest.com).
 
 <warning>
-<strong>Important</strong>: During the installation yo uwill be asked for your email details and will then be sent an email with instructions. Please check your junk folder if you don't received it. If you think you entered an incorrect email address, please <a href="Vizitest-services.md">remove the <pre>.vizitest folder</pre></a> and re-run the installer. 
+<strong>Important</strong>: During the installation you will be asked for your email details and will then be sent an email with instructions. Please check your junk folder if you don't received it. If you think you entered an incorrect email address, please <a href="Vizitest-services.md">remove the <pre>.vizitest folder</pre></a> and re-run the installer. 
 </warning>
 
 <warning>
