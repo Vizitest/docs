@@ -24,26 +24,34 @@ Click in the value field and change from ```default``` to some uid (string) for 
 
 <img src="add-user-header.png" alt="added endpoint with method and path" width="800"/>
 
-### Quick Play
-Press the green Quick Play icon in the top of the Endpoint component to test it. You will get an error because we did not provide a body.
+### Execute
+Press the Execute button (first icon on the buttons group). If you look at the execution result you will see you get a 415 error. This is because we did not provide a body with the new user's data.
 
 <img src="add-user-no-body.png" alt="added endpoint with method and path" width="800"/>
 
 
 ### Set the Body
-POST requests require a body, so let's provide one. Hover over the Body section and press the **+Body** button that appears. This will add a default group and a default value.
+The POST requests requires a body, so let's provide one. Hover over the Body section and press the **+Body** button that appears. This will add a default group and a default value.
 
 <img src="add-user-body-add.png" alt="add request body" width="500"/>
 
-Click in the JSON field and enter ```{"name":"Mary","surname":"Meadows"}```. 
+You will now see the following screen.
 
-<img src="add-user-body-json.png" alt="added empty body" width="800"/>
+<img src="add-user-empty-json.png" alt="empty json" width="500"/>
 
-### Quick Play again
-Press the play button again. You should now see a ```200``` status code in the Execution Results as well as ```Mary Meadows``` in the response body.
+Hover over the newly added, but empty, value and click on the pencil icon that appears. Click on the Raw tab and enter the following JSON :  ```{"name":"Mary","surname":"Meadows"}```.
+
+<img src="add-user-enter-raw-json.png" alt="enter raw json json" width="500"/>
+
+Press save to return to the canvas, where you will see the JSON in the value field. You can edit this at any time by pressing the pencil icon again.
+
+<img src="add-user-body-json.png" alt="added empty body" width="400"/>
+
+### Execute again
+Press the **Execute** button again. You should now see a ```200``` status code in the Execution Results as well as ```Mary Meadows``` in the response body.
 
 <img src="add-user-added-result.png" alt="add request body" width="800"/>
 
 
 ### Check Get all users
-From the recents list in the left sidebar, go back to the **Get All Users** test configuration and run it again. You should see ```Mary Meadows``` in the returned list.
+From the recents list in the left sidebar, go back to the **Get All Users** test configuration and run it again. You will now see ```Mary Meadows``` in the response body.

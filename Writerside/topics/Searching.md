@@ -1,5 +1,5 @@
 # Searching
-You can search for Groups and Test Configurations by pressing the search icon. The search will look at both the title and description description fields.
+You can search for Groups and Test Configurations by pressing the search icon. The search will look at both the title and description fields.
 
 <img src="search.png" width="700" alt="search"/>
 

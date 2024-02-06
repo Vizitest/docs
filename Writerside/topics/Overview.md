@@ -1,5 +1,8 @@
 # Getting Started
 
+## Service Monitor
+Vizitest runs in a web client and talks to a locally installed backend service. Please refer to the [Vizitest Service Monitor](Vizitest-services.md) for more information.
+
 ## Learning Step by step
 We recommend working through the following sections in the user guide. This will give you a solid understanding of Vizitest. There are also instructions on how to install a simple web server that accompanies the user guid steps.
 

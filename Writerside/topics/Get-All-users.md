@@ -35,13 +35,19 @@ Double click the header of the Endpoint component to zoom in on it.
    4. The endpoint path. Will always start with a / even if you don't explicitly add it.
    5. The Quick Play button that executes the endpoint with the first value in each configured request.response section.
 
+<img src="endpoint-buttons.png" alt="endpoint buttons" width="400"/>
+
+- **Execute** - executes test cases. If you have just configured the endpoint, then it will be called and the results shown. If you have previously generated test cases, then all test cases are executed and all results shown.
+- **Instant Configuration** - this is a very powerful and major time saving feature. [Click here](Instant-Configuration.md) for more information.
+- **Test Case Table** - this hides or shows the test case table.
+- **Help** - open the help drawer where you will find a video and useful docs links.
 
 ### Set REST method and Path
 Modify the Endpoint **method** and **path**. We'll use a ```GET``` request and ```users``` as the path.
 
 
-### Quick Play
-Press the green Quick Play icon (5 in the above image) to test it. As soon as you do this, the results of the request will appear in the Execution Results component. 
+### Execute
+Press the **Execute** button (see above) to test your endpoint. As soon as you do this, the results of the request will appear in the Execution Results component. 
 
 You can clearly see the request and response data.
 

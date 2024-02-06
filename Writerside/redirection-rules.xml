@@ -30,4 +30,12 @@
         <description>Created after removal of "Language Packages" from Vizitest Documentation</description>
         <accepts>Language-Packages.html</accepts>
     </rule>
+    <rule id="78d8458a">
+        <description>Created after removal of "Using AI for Groups and Values" from Vizitest Documentation</description>
+        <accepts>Using-AI-for-Groups-and-Values.html</accepts>
+    </rule>
+    <rule id="11ac37e0">
+        <description>Created after removal of "Splitting a test configutation" from Vizitest Documentation</description>
+        <accepts>Splitting-a-test-configutation.html</accepts>
+    </rule>
 </rules>

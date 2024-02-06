@@ -3,7 +3,7 @@
 A project stores API and Test configurations organized into groups.
 
 ## Project folder
-Before you create your new project, prepare a folder where the Vizitest project data should be stored. This can be anywhere on your machine,
+Before you create your new project, prepare a folder where the Vizitest project data should be stored. This can be anywhere on your machine.
 
 ## Git
 You may want to initialise this folder as a git repository. This will allow you to collaborate with others. 
@@ -26,7 +26,7 @@ To add a new project, click the + button next to **Projects**.
 For a brand new project, select the **New** tab. If you already have a Vizitest project folder, select **Existing**.
 
 1. Enter a project name, such as **Vizitest Learn**. This can only contain valid file name characters.
-2. Provide the name of a folder where your project will exist. This can be anywhere on your machine but it must be a valid, absolute path and must already exist,
+2. Provide the name of a folder where your project can be found. This can be anywhere on your machine but it must be a valid, absolute path and must already exist.
 
 For new projects, you can optionally add...
 

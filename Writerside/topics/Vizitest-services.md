@@ -13,6 +13,7 @@ The Vizitest Service Monitor is a simple application that can be found in the Vi
 - show the current status of the Vizitest services,
 - start and stop the Vizitest services,
 - get a shortcut button for opening Vizitest in your browser.
+- change ports and service startup behaviour.
 
 <img src="vizitest-monitor.png" width="600" alt="vizitest monitor"/>
 
