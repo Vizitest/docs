@@ -20,12 +20,10 @@ Our sample projects can be found on Github. To install these into Vizitest...
 - The project should now open and you should see some groups with test configurations.
 
 ### Learn project
-
 Clone the [Learn repository](https://github.com/Vizitest/vizitest-learn).
 
 ### Credit Check
-
-Clone the [Credit Check repository](https://github.com/Vizitest/vizitest-learn).
+Clone the [Credit Check repository](https://github.com/Vizitest/credit-check).
 
 ### Create an API
 
