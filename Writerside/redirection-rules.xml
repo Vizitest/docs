@@ -38,4 +38,37 @@
         <description>Created after removal of "Splitting a test configutation" from Vizitest Documentation</description>
         <accepts>Splitting-a-test-configutation.html</accepts>
     </rule>
+    <rule id="34a87e38">
+        <description>Created after removal of "Resetting server data" from Vizitest Documentation</description>
+        <accepts>Resetting-server-data.html</accepts>
+    </rule>
+    <rule id="3e8117e2">
+        <description>Created after removal of "Adding another Test Case" from Vizitest Documentation</description>
+        <accepts>Adding-another-Test-Case.html</accepts>
+    </rule>
+    <rule id="7d8e0a84">
+        <description>Created after removal of "Auto generating test cases" from Vizitest Documentation</description>
+        <accepts>Auto-generating-test-cases.html</accepts>
+    </rule>
+    <rule id="424415a8">
+        <description>Created after removal of "Delete a user" from Vizitest Documentation</description>
+        <accepts>DELETE-a-user.html</accepts>
+    </rule>
+    <rule id="2000802">
+        <description>Created after removal of "Testing the response body" from Vizitest Documentation</description>
+        <accepts>Testing-the-response-body.html</accepts>
+    </rule>
+    <rule id="2ab548a">
+        <description>Created after removal of "Executing multiple test configurations" from Vizitest Documentation
+        </description>
+        <accepts>Executing-multiple-test-configurations.html</accepts>
+    </rule>
+    <rule id="1370b35f">
+        <description>Created after removal of "Headers and cookies" from Vizitest Documentation</description>
+        <accepts>Headers-and-cookies.html</accepts>
+    </rule>
+    <rule id="7fa62ffc">
+        <description>Created after removal of "Basic Testing" from Vizitest Documentation</description>
+        <accepts>Basic-Testing.html</accepts>
+    </rule>
 </rules>

@@ -9,8 +9,10 @@ We recommend working through the following sections in the user guide. This will
 - [The Test Manager](Test-Manager.md)
 - [The Test Editor](Test-Editor.md)
 
-## Vizitest Learn Project
-You can also install the Vizitest Learn repository, a Vizitest project that contains some preconfigured tests. Please go to [The Test Server](The-Test-Server.md) for details.
+## Sample Projects and Test API Server
+We provide some sample projects containing preconfigured tests that are referenced from the documentation. The Test Server is a simple Python server that you can install locally. 
+
+Please go to [Sample Projects and Test Server](The-Test-Server.md) for details.
 
 ## TLDR
 We recommend reading the Test Manager and Test Editor sections. These contain some hands-on examples and a test server you can install locally.

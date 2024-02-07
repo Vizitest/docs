@@ -3,7 +3,7 @@
 Let's create a new test configuration that tests the endpoint ```/check-credit``` in our [Test Server](The-Test-Server.md).
 
 <note>
-We will use this configuration in the following sections to demonstrate Vizitest's testing capabilities.
+We will use this configuration in the following pages in this section to demonstrate Vizitest's testing capabilities.
 
 To see the simple logic for this endpoint, please look at ```/play-server/server/routes/check_credit.py``` in the source code.
 </note>
