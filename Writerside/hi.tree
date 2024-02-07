@@ -46,6 +46,7 @@
         <toc-element topic="The-Test-Server.md"/>
         <toc-element topic="Get-All-users.md"/>
         <toc-element topic="POST-add-new-user.md"/>
+        <toc-element topic="Using-AI-to-generate-Groups-and-Values.md"/>
         <toc-element topic="Testing.md">
             <toc-element topic="Check-Credit.md"/>
             <toc-element topic="Instant-Configuration.md"/>
