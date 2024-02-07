@@ -45,6 +45,10 @@ The servers you provide can then be selected in the left sidebar. This allows yo
 Select the ```development``` server for use later on.
 
 ## Headers and Cookies
+
+<warning>
+Coming soon. In the meantime, please supply headers and cookies in the Endpoint component.</warning>
+
 You can also add any standard headers and cookies as required. You do not have to provide any but the benefit is you can add commonly used headers and cookies. These will then automatically be available within a test configuration for you to select from. This saves time so you don't have to specify them repeatedly for endpoint tests.
 
 ## Security

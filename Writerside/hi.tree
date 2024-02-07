@@ -46,14 +46,14 @@
         <toc-element topic="The-Test-Server.md"/>
         <toc-element topic="Get-All-users.md"/>
         <toc-element topic="POST-add-new-user.md"/>
-        <toc-element topic="Basic-Testing.md"/>
-        <toc-element topic="Resetting-server-data.md"/>
-        <toc-element topic="Adding-another-Test-Case.md"/>
-        <toc-element topic="Auto-generating-test-cases.md"/>
-        <toc-element topic="DELETE-a-user.md"/>
-        <toc-element topic="Testing-the-response-body.md"/>
-        <toc-element topic="Executing-multiple-test-configurations.md"/>
-        <toc-element topic="Headers-and-cookies.md"/>
+        <toc-element topic="Testing.md">
+            <toc-element topic="Check-Credit.md"/>
+            <toc-element topic="Instant-Configuration.md"/>
+            <toc-element topic="Test-Case-Table.md"/>
+            <toc-element topic="Splitting-a-test-configuration.md"/>
+            <toc-element topic="Execution-Results.md"/>
+            <toc-element topic="Testing-multiple-configurations.md"/>
+        </toc-element>
         <toc-element topic="Security.md"/>
     </toc-element>
     <toc-element topic="Scripting.md">

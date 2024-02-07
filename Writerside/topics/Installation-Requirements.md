@@ -7,13 +7,15 @@ To install Vizitest, select your OS from the appropriate tab below and click the
 
 <tabs>
 <tab title="Windows">
-<p><a href="https://mrm.automated-software-testing.com/releases/com/ast/vizitest/beta/installer/vizitest_beta_0.1.0_installer_x64.exe">Click here</a> to download the Windows installer.</p>
+<p><a href="https://mrm.automated-software-testing.com/releases/com/ast/vizitest/beta/installer/vizitest_beta_0.2.0_installer_x64.exe">Click here</a> to download the Windows installer.</p>
 <p>Should your anti-virus package block the installer, please take appropriate steps to correct.</p>
 </tab>
-<tab title="MacOS"><a href="https://mrm.automated-software-testing.com/releases/com/ast/vizitest/beta/installer/vizitest_beta_0.1.0_installer_x64.dmg">Click here</a> to download the MacOS installer.</tab>
-<tab title="Linux"><a href="https://mrm.automated-software-testing.com/releases/com/ast/vizitest/beta/installer/vizitest_beta_0.1.0_installer_amd64.AppImage">Click here</a> to download the Linux installer.
+<tab title="MacOS"><a href="https://mrm.automated-software-testing.com/releases/com/ast/vizitest/beta/installer/vizitest_beta_0.2.0_installer_x64.dmg">Click here</a> to download the MacOS installer.</tab>
+<tab title="Linux"><a href="https://mrm.automated-software-testing.com/releases/com/ast/vizitest/beta/installer/vizitest_beta_0.2.0_installer_amd64.AppImage">Click here</a> to download the Linux installer.
 
 The Installer is an AppImage. AppImages require FUSE version 2 to run. Many distributions have a working FUSE setup out-of-the-box. However if it is not working for you, you may need to install and configure FUSE manually. See <a href="https://github.com/AppImage/AppImageKit/wiki/FUSE">the FUSE page</a> for instructions.
+
+**Redhat Enterprise Linux 9** - You should install ```libglvnd-opengl``` before running the installer.
 </tab>
 </tabs>
 

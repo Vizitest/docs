@@ -1,13 +1,18 @@
 # Getting Started
 
+## Service Monitor
+Vizitest runs in a web client and talks to a locally installed backend service. Please refer to the [Vizitest Service Monitor](Vizitest-services.md) for more information.
+
 ## Learning Step by step
 We recommend working through the following sections in the user guide. This will give you a solid understanding of Vizitest. There are also instructions on how to install a simple web server that accompanies the user guid steps.
 
 - [The Test Manager](Test-Manager.md)
 - [The Test Editor](Test-Editor.md)
 
-## Vizitest Learn Project
-You can also install the Vizitest Learn repository, a Vizitest project that contains some preconfigured tests. Please go to [The Test Server](The-Test-Server.md) for details.
+## Sample Projects and Test API Server
+We provide some sample projects containing preconfigured tests that are referenced from the documentation. The Test Server is a simple Python server that you can install locally. 
+
+Please go to [Sample Projects and Test Server](The-Test-Server.md) for details.
 
 ## TLDR
 We recommend reading the Test Manager and Test Editor sections. These contain some hands-on examples and a test server you can install locally.

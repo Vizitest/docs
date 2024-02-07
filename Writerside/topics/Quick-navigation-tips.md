@@ -9,8 +9,11 @@ There are two ways to change the test configuration you are editing.
 - Use the **recents** list in the left sidebar.
 - Navigate back to the Test Manager by clicking on the Project name at the top of the left sidebar or on the project name in the **Projects** list.
 
-## Auto layout
-<p>Vizitest can organize your test configuration components for you. In the canvas buttons on the right of the canvas, press the <img src="auto-layout-button.png" height="30" alt="changing the active server"/>
-icon.</p>
+## "Zoom To" buttons
+On the right side of the canvas you will find buttons for quickly zooming to components.
 
-<img src="auto-layout-editor.png" width="700" alt="auto layout"/>
+<img src="zoom-to-buttons.png" width="200" alt="zoom to components"/>
+
+## Other canvas actions
+Refer to [Canvas Actions](Canvas-actions.md) for information on auto layout and fit-view, buttons in the top of the right side of the canvas.
+
