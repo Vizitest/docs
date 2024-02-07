@@ -2,7 +2,7 @@
 
 A powerful feature is the ability to execute all tests in a group sequentially.
 
-[Click here](Executing-multiple-test-configurations.md) for a detailed explanation.
+[Click here](Testing-multiple-configurations.md) for a detailed explanation.
 
 Running multiple tests from a group by pressing the run button...
 
